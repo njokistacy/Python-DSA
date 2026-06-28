@@ -1,5 +1,5 @@
 # Introduction to Programming
-Welcome to the ```IntrotoProgramming``` repository, with additional coding material of the Introduction to Programming course. 😄
+Welcome to the ```IntrotoProgramming``` repository, with additional coding material of the Introduction to Programming and Embedded Systems and IoT courses. 😄
 
 It contains the following:
 - ```rps.cpp``` : full program for the Rock, Paper, Scissors! game (*Language - C++*)
